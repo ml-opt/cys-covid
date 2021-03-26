@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/quality.dir/quality.cpp.o  -o quality  ../../libdnn_opt_core.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/opwa-neural.dir/opwa-neural.cpp.o  -o opwa-neural  ../../libdnn_opt_core.a 

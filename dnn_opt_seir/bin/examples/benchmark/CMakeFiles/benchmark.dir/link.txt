@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/benchmark.dir/benchmark.cpp.o  -o benchmark  ../../libdnn_opt_core.a 

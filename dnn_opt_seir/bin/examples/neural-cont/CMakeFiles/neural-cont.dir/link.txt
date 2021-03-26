@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/neural-cont.dir/neural-cont.cpp.o  -o neural-cont  ../../libdnn_opt_core.a 
